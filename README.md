@@ -1,4 +1,4 @@
-# compound-hazard-model
+# compound-hazard-economic-footprint-model
 An input-output method to assess the economic footprint of a compound hazard.
 
 Sample_BaseFrTrade_ProSpecialization.m - a sample of Matlab script for the compound scenario when multi-scale floods in reigon C collide with a 30%-24 pandemic control in the global economy with the 'MANR-C' and 'MANR-B' sectors make non-substitutable specialized products.
